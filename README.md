@@ -1,2 +1,2 @@
-# ECE425_FinalProject
+# Sonar_Project
 Sonar Project
